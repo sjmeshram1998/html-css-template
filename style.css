@@ -38,7 +38,7 @@
 
 .image {
 
-    width: 70vw;
+    width: 60vw;
     /* height: auto; */
     margin-top: -7rem;
     margin-left: 20vw;
@@ -101,7 +101,7 @@
 
 .footer {
     /* height: 8rem; */
-    width: 57vw;
+    width: 50vw;
     /* border: 1px solid red; */
     margin-left: 20vw;
     background-color: #535353;
@@ -266,7 +266,7 @@
 
     .footer {
         /* height: 10rem; */
-        width: 26rem;
+        /* width: 32rem; */
     }
 
     .image {
@@ -296,7 +296,7 @@
 
     .footer {
         display: block;
-        width: 65vw;
+        width: 60vw;
         padding: 1rem;
     }
     .nav-footer-f p {
@@ -345,7 +345,7 @@
 
     .footer {
         display: block;
-        width: 68vw;
+        width: 59vw;
         padding: 1rem;
     }
     .nav-footer-f p {
